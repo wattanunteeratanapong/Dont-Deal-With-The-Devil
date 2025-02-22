@@ -5,6 +5,11 @@ My first static website game and indy game, if you wanna know why this game is n
 
 
 
+## Objective
+reaching 10,000 point or you will find out. 😈
+
+
+
 ## Assets
 ### Playing Card
 Thanks to "Glennorous" for these beautiful assets <br>
