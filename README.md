@@ -8,7 +8,7 @@ Try Here ==>
 
 
 ## Asset
-Thanks to "Glennorous" <br>
+Thanks to <a href="https://itch.io/profile/glennorous">"Glennorous"</a> for these beautiful assets <br>
 Check out these beautiful asset &nbsp;:&nbsp; https://glennorous.itch.io/pixel-art-standard-52-card-deck
 
 ![m8mNQl](https://github.com/user-attachments/assets/47c95377-4f7d-466c-8484-5c4cede9a3a2)
