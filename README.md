@@ -1,4 +1,4 @@
-# Don't Deal With the Devil
+# Don't Deal With The Devil
 Transform from "Python" into "JavaScript" from this repository &nbsp;:&nbsp; https://github.com/wattanunteeratanapong/Blackjack-House-Edge-Study <br><br>
 
 Try Here ==>
