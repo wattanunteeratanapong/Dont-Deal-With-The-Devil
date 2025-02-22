@@ -22,7 +22,7 @@ Check out background music &nbsp;:&nbsp; https://www.youtube.com/live/PaFHwTjy1y
 <img src="https://github.com/user-attachments/assets/6a7d7f64-8d8c-47fe-ba54-cd46b0802d2c" width="100%" alt="Asset"><br><br>
 
 ### Sound Effect
-Check out background music &nbsp;:&nbsp; https://youtu.be/RvpJxS3fZH0?si=99DZ0fEpIL0F0Qw6 <br><br>
+Check out sound effect &nbsp;:&nbsp; https://youtu.be/RvpJxS3fZH0?si=99DZ0fEpIL0F0Qw6 <br><br>
 <img src="https://github.com/user-attachments/assets/6dc40843-971e-43eb-adfe-72549371c037" width="100%" alt="Asset"><br><br>
 
 
