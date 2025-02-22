@@ -7,7 +7,7 @@ Try Here ==>
 
 
 
-## Asset
+## Assets
 ### Playing Card
 Thanks to <a href="https://itch.io/profile/glennorous">"Glennorous"</a> for these beautiful assets <br>
 Check out these beautiful assets &nbsp;:&nbsp; https://glennorous.itch.io/pixel-art-standard-52-card-deck <br><br>
