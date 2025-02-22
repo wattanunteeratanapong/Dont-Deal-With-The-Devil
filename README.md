@@ -15,5 +15,6 @@ Check out these beautiful assets &nbsp;:&nbsp; https://glennorous.itch.io/pixel-
 
 ### Background Image (AI Generated)
 Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br><br>
+Prompt &nbsp;:&nbsp; "Casino dealer standing in front of the table, directly facing the camera, looking at the viewer, with a confident expression."
 <img src="https://github.com/user-attachments/assets/eb00c6f4-e359-4751-8e0b-4a92471ee111" width="100%" alt="Asset">
 
