@@ -1,5 +1,5 @@
 # Don't Deal With The Devil
-My first static website game
+My first static website game and indy game, if you wanna know why this game is named "Don't Deal With The Devil" you can try to lose this game.
 
 ## Preview
 
