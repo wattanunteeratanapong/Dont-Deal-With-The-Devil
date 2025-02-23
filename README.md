@@ -12,31 +12,6 @@ reaching 10,000 point or you will find out. 😈
 
 
 
-## Voice Line
-### Starting Menu
-- "Ah, so you've arrived. I’ve been expecting you."
-- "You’ve come to gamble, haven’t you? Be careful... the stakes are higher than you think."
-- "The stakes are high, but what’s life without a little risk?"
-- "You’ve got the courage to play, but will you have the courage to face the outcome?"
-- "So, you're here to test your luck? It’s not often I get visitors with such... boldness."
-- "What’s a little risk when the reward could be so... sweet? Come on, let’s see what you’ve got."
-- "A wise person knows when to take a chance. I’m curious if you’ll be that wise."
-- "I can sense your curiosity. But remember, not everything is as it seems here."
-- "The game’s simple, really. But sometimes, simplicity can hide the most... intriguing outcomes."
-- "There’s always a little thrill in the unknown. I wonder if you’ll embrace it."
-- "Ah, the thrill of the gamble. It’s all about what you’re willing to risk... and what you might gain."
-- "It’s always fascinating, watching someone who thinks they know what’s at stake. Let's see how long that confidence lasts."
-- "I’m sure you’ve heard the rumors, but now, you're here. Ready to see if they’re true?"
-- "I can tell you’ve got a spark. Let’s see if you can keep it burning through the game."
-- "Not everything is as it seems, and not every person either."
-### In Game
-- "Ah, so you've arrived. I’ve been expecting you."
-- "You’ve come to gamble, haven’t you? Be careful... the stakes are higher than you think."
-- "The stakes are high, but what’s life without a little risk?"
-<br><br>
-
-
-
 ## Assets
 ### Playing Card
 Thanks to "Glennorous" for these beautiful assets <br>
@@ -68,6 +43,30 @@ Check out an AI &nbsp;:&nbsp; https://app.runwayml.com <br><br>
 <img src="https://github.com/user-attachments/assets/c7bd45ab-b399-4aea-b13f-e46ce71e249f" width="100%" alt="Frame5"><br>
 <img src="https://github.com/user-attachments/assets/8fe799d2-f678-4694-93f0-4eab0735dcf4" width="100%" alt="Frame6"><br><br>
 
+
+
+## The Dealer Voice Line
+### Starting Menu
+- "Ah, so you've arrived. I’ve been expecting you."
+- "You’ve come to gamble, haven’t you? Be careful... the stakes are higher than you think."
+- "The stakes are high, but what’s life without a little risk?"
+- "You’ve got the courage to play, but will you have the courage to face the outcome?"
+- "So, you're here to test your luck? It’s not often I get visitors with such... boldness."
+- "What’s a little risk when the reward could be so... sweet? Come on, let’s see what you’ve got."
+- "A wise person knows when to take a chance. I’m curious if you’ll be that wise."
+- "I can sense your curiosity. But remember, not everything is as it seems here."
+- "The game’s simple, really. But sometimes, simplicity can hide the most... intriguing outcomes."
+- "There’s always a little thrill in the unknown. I wonder if you’ll embrace it."
+- "Ah, the thrill of the gamble. It’s all about what you’re willing to risk... and what you might gain."
+- "It’s always fascinating, watching someone who thinks they know what’s at stake. Let's see how long that confidence lasts."
+- "I’m sure you’ve heard the rumors, but now, you're here. Ready to see if they’re true?"
+- "I can tell you’ve got a spark. Let’s see if you can keep it burning through the game."
+- "Not everything is as it seems, and not every person either."
+### In Game
+- "Ah, so you've arrived. I’ve been expecting you."
+- "You’ve come to gamble, haven’t you? Be careful... the stakes are higher than you think."
+- "The stakes are high, but what’s life without a little risk?"
+<br><br>
 
 
 
