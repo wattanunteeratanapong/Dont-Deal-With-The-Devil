@@ -86,7 +86,7 @@ Check out background music &nbsp;:&nbsp; https://www.youtube.com/live/PaFHwTjy1y
 
 ### Sound Effect
 Check out sound effect &nbsp;:&nbsp; https://youtu.be/RvpJxS3fZH0?si=99DZ0fEpIL0F0Qw6 <br><br>
-<img src="https://github.com/user-attachments/assets/6dc40843-971e-43eb-adfe-72549371c037" width="100%" alt="Asset"><br><br>
+<img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Asset"><br><br>
 
 ### Coin Stack
 Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
@@ -115,6 +115,6 @@ Devil in human disguise inspiration, crafty
 <img src="https://github.com/user-attachments/assets/ab0a3e64-e1d8-4e2c-aee5-9297a4731681" width="100%" alt="Dungeons & Degenerate Gamblers"><br><br>
 
 ### Undertale
-<img src="https://s3.amazonaws.com/gameopedia_covers/covers/504052/afa774e7566c0e592f9a3d958a70d73e.png" width="100%" alt="Dungeons & Degenerate Gamblers"><br><br>
+<img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Dungeons & Degenerate Gamblers"><br><br>
 
 
