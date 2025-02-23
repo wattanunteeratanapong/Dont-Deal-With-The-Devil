@@ -12,6 +12,27 @@ reaching 10,000 point or you will find out. 😈
 
 
 
+## Lore (Spoiler Alert!)
+You are now death and now you lost into this weird casino where there is no person except the dealer that all you know, you dont remember that you already death.
+The dealer is a devil in human disguise and he tryna trick player in to playing with him by disguise as a human play a calm music trick player to play with him by telling them to press enter to play, the bet is a you soul. If you win you get a revive, if you lost you soul is consume by the devil and die forever.
+The voice line in a white text is when he speak in a polite maner, but he also imply in his voice line that he's a devil, a hint for a player.
+The voice line in a red thes is when he speak with his devil voice.
+And the reason why no one in this place is because no one dare to bet their soul. You can see in the devil voice line he's very surprise in your boldness.
+
+
+
+## Game Ending
+### Good Ending
+You win the bet against the devil now you finally leave this hell.
+
+### Bad Ending
+You lost your bet which mean the devil will take your soul, and die forever.
+
+### Easter Egg
+You can press "esc" to leave that casino. and soon learn to live a life in a hell as it should be, human should't against nature rule to revive. 
+
+
+
 ## Assets
 ### Playing Card
 Thanks to "Glennorous" for these beautiful assets <br>
@@ -69,22 +90,4 @@ Prompt &nbsp;:&nbsp; "Dealer crossing his arm." <br><br>
 
 
 
-## Lore (Spoiler Alert!)
-You are now death and now you lost into this weird casino where there is no person except the dealer that all you know, you dont remember that you already death.
-The dealer is a devil in human disguise and he tryna trick player in to playing with him by disguise as a human play a calm music trick player to play with him by telling them to press enter to play, the bet is a you soul. If you win you get a revive, if you lost you soul is consume by the devil and die forever.
-The voice line in a white text is when he speak in a polite maner, but he also imply in his voice line that he's a devil, a hint for a player.
-The voice line in a red thes is when he speak with his devil voice.
-And the reason why no one in this place is because no one dare to bet their soul. You can see in the devil voice line he's very surprise in your boldness.
-
-
-
-## Game Ending
-### Good Ending
-You win the bet against the devil now you finally leave this hell.
-
-### Bad Ending
-You lost your bet which mean the devil will take your soul, and die forever.
-
-### Easter Egg
-You can press "esc" to leave that casino. and soon learn to live a life in a hell as it should be, human should't against nature rule to revive. 
 
