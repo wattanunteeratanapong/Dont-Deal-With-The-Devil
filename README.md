@@ -105,6 +105,7 @@ Prompt &nbsp;:&nbsp; "A sleek, red-and-black themed casino stands boldly in the 
 
 ## Inspiration
 ### Lucifer
+Devil in human disguise inspiration, crafty
 <img src="https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="100%" alt="Lucifer"><br><br>
 
 ### Balatro
