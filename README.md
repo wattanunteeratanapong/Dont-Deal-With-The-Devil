@@ -118,6 +118,11 @@ Blackjack idea
 
 ### Undertale
 Story telling
-<img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Dungeons & Degenerate Gamblers"><br><br>
+<img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Undertale"><br><br>
+
+### DAVE THE DIVER
+Pixel art style
+<img src="https://github.com/user-attachments/assets/f11325ff-5c57-4c78-8854-c6a7db785bb7" width="100%" alt="DAVE THE DIVER"><br><br>
+
 
 
