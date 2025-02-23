@@ -23,10 +23,10 @@ And the reason why no one in this place is because no one dare to bet their soul
 
 ## Game Ending
 ### Good Ending
-You win the bet against the devil now you finally leave this hell.
+You win the bet against the devil, by reaching 10,000 soul point and now you finally free from this hell to a human world.
 
 ### Bad Ending
-You lost your bet which mean the devil will take your soul, and die forever.
+You lost your bet which mean the devil will take your soul, and you will die forever.
 
 ### Easter Egg
 You can press "esc" to leave that casino. and soon learn to live a life in a hell as it should be, human should't against nature rule to revive. 
