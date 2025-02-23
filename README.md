@@ -28,6 +28,7 @@ reaching 10,000 point or you will find out. 😈
 - "It’s always fascinating, watching someone who thinks they know what’s at stake. Let's see how long that confidence lasts."
 - "I’m sure you’ve heard the rumors, but now, you're here. Ready to see if they’re true?"
 - "I can tell you’ve got a spark. Let’s see if you can keep it burning through the game."
+- "Not everything is as it seems, and not every person either."
 ### In Game
 - "Ah, so you've arrived. I’ve been expecting you."
 - "You’ve come to gamble, haven’t you? Be careful... the stakes are higher than you think."
