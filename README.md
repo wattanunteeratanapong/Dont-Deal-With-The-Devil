@@ -24,7 +24,7 @@ You win the bet against the devil, by reaching 10,000 soul point and now you fin
 You lost your bet which mean the devil will take your soul, and you will die forever.
 
 ### Easter Egg
-You close the game tab to leave the casino. and soon learn to live a life in a hell as it should be, human should't against nature rule to revive. XD
+You close the game tab to leave the casino. and soon learn to live a life in a hell as it should be, human should't against nature rule to revive, the game name already warn player. XD
 
 
 
