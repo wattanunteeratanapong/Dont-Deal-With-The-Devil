@@ -28,6 +28,38 @@ You close the game tab to leave the casino. and soon learn to live a life in a h
 
 
 
+## The Dealer Voice Line
+### Starting Menu
+- "Ah, so you've arrived. I’ve been expecting you."
+- "You’ve come to gamble, haven’t you? Be careful... the stakes are higher than you think."
+- "The stakes are high, but what’s life without a little risk?"
+- "You’ve got the courage to play, but will you have the courage to face the outcome?"
+- "So, you're here to test your luck? It’s not often I get visitors with such... boldness."
+- "What’s a little risk when the reward could be so... sweet? Come on, let’s see what you’ve got."
+- "A wise person knows when to take a chance. I’m curious if you’ll be that wise."
+- "I can sense your curiosity. But remember, not everything is as it seems here."
+- "The game’s simple, really. But sometimes, simplicity can hide the most... intriguing outcomes."
+- "Ah, the thrill of the gamble. It’s all about what you’re willing to risk... and what you might gain."
+- "It’s always fascinating, watching someone who thinks they know what’s at stake. Let's see how long that confidence lasts."
+- "I can tell you’ve got a spark. Let’s see if you can keep it burning through the game."
+- "Not everything is as it seems, and not every person either."
+### In Game
+- "Ah, so you've arrived. I’ve been expecting you."
+- "You’ve come to gamble, haven’t you? Be careful... the stakes are higher than you think."
+- "The stakes are high, but what’s life without a little risk?"
+### Win
+- "Allright you win i shall set you free."
+- "But remember it just revive not immortal."
+- "You might visit me again."
+### Lose
+- "You have nothing to be now."
+- "I am gonna take your soul."
+- "Huh?"
+- "You sign the contract the moment you press enter."
+<br><br>
+
+
+
 ## Assets
 ### Hell Scenery
 Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
@@ -68,36 +100,14 @@ Check out these beautiful assets &nbsp;:&nbsp; https://glennorous.itch.io/pixel-
 
 
 
-## The Dealer Voice Line
-### Starting Menu
-- "Ah, so you've arrived. I’ve been expecting you."
-- "You’ve come to gamble, haven’t you? Be careful... the stakes are higher than you think."
-- "The stakes are high, but what’s life without a little risk?"
-- "You’ve got the courage to play, but will you have the courage to face the outcome?"
-- "So, you're here to test your luck? It’s not often I get visitors with such... boldness."
-- "What’s a little risk when the reward could be so... sweet? Come on, let’s see what you’ve got."
-- "A wise person knows when to take a chance. I’m curious if you’ll be that wise."
-- "I can sense your curiosity. But remember, not everything is as it seems here."
-- "The game’s simple, really. But sometimes, simplicity can hide the most... intriguing outcomes."
-- "Ah, the thrill of the gamble. It’s all about what you’re willing to risk... and what you might gain."
-- "It’s always fascinating, watching someone who thinks they know what’s at stake. Let's see how long that confidence lasts."
-- "I can tell you’ve got a spark. Let’s see if you can keep it burning through the game."
-- "Not everything is as it seems, and not every person either."
-### In Game
-- "Ah, so you've arrived. I’ve been expecting you."
-- "You’ve come to gamble, haven’t you? Be careful... the stakes are higher than you think."
-- "The stakes are high, but what’s life without a little risk?"
-### Win
-- "Allright you win i shall set you free."
-- "But remember it just revive not immortal."
-- "You might visit me again."
-### Lose
-- "You have nothing to be now."
-- "I am gonna take your soul."
-- "Huh?"
-- "You sign the contract the moment you press enter."
-<br><br>
+## Inspiration
+### Lucifer
+<img src="https://github.com/user-attachments/assets/79b42725-3b3e-4190-995b-1a01372718a0" width="100%" alt="Lucifer"><br><br>
 
+### Balatro
+<img src="https://github.com/user-attachments/assets/b79a0b33-6320-4ca6-b43d-e728e36899d2" width="100%" alt="Balatro"><br><br>
 
+### Dungeons & Degenerate Gamblers
+<img src="https://github.com/user-attachments/assets/ab0a3e64-e1d8-4e2c-aee5-9297a4731681" width="100%" alt="Dungeons & Degenerate Gamblers"><br><br>
 
 
