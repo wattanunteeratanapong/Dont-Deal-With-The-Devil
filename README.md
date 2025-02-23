@@ -102,7 +102,7 @@ Check out these beautiful assets &nbsp;:&nbsp; https://glennorous.itch.io/pixel-
 
 ## Inspiration
 ### Lucifer
-<img src="https://github.com/user-attachments/assets/79b42725-3b3e-4190-995b-1a01372718a0" width="100%" alt="Lucifer"><br><br>
+<img src="https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="100%" alt="Lucifer"><br><br>
 
 ### Balatro
 <img src="https://github.com/user-attachments/assets/b79a0b33-6320-4ca6-b43d-e728e36899d2" width="100%" alt="Balatro"><br><br>
