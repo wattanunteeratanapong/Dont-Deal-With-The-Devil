@@ -48,6 +48,11 @@ Check out background music &nbsp;:&nbsp; https://www.youtube.com/live/PaFHwTjy1y
 Check out sound effect &nbsp;:&nbsp; https://youtu.be/RvpJxS3fZH0?si=99DZ0fEpIL0F0Qw6 <br><br>
 <img src="https://github.com/user-attachments/assets/6dc40843-971e-43eb-adfe-72549371c037" width="100%" alt="Asset"><br><br>
 
+### Coin Stack
+Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
+Prompt &nbsp;:&nbsp; "Straight 2D top down view of a stack of coins on a table, each coin featuring a Jesus cross symbol engraved on its surface." <br><br>
+
+
 
 
 ## The Dealer Animation (AI Generated)
