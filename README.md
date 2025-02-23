@@ -71,7 +71,7 @@ Prompt &nbsp;:&nbsp; "Dealer crossing his arm." <br><br>
 
 ## Lore (Spoiler Alert!)
 You are now death and now you lost into this weird casino where there is no person except the dealer that all you know, you dont remember that you already death.
-The dealer is a devil in human disguise and they tryna trick player in to playing with him, the bet is a you soul. If you win you get a revive, if you lost you soul is consume by the devil and die forever.
+The dealer is a devil in human disguise and he tryna trick player in to playing with him, the bet is a you soul. If you win you get a revive, if you lost you soul is consume by the devil and die forever.
 The voice line in a white text is when he speak in a polite maner, but he also imply in his voice line that he's a devil, a hint for a player.
 The voice line in a red thes is when he speak with his devil voice.
 
