@@ -109,12 +109,15 @@ Devil in human disguise inspiration, crafty
 <img src="https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="100%" alt="Lucifer"><br><br>
 
 ### Balatro
+Card animation
 <img src="https://github.com/user-attachments/assets/b79a0b33-6320-4ca6-b43d-e728e36899d2" width="100%" alt="Balatro"><br><br>
 
 ### Dungeons & Degenerate Gamblers
+Blackjack idea
 <img src="https://github.com/user-attachments/assets/ab0a3e64-e1d8-4e2c-aee5-9297a4731681" width="100%" alt="Dungeons & Degenerate Gamblers"><br><br>
 
 ### Undertale
+Story telling
 <img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Dungeons & Degenerate Gamblers"><br><br>
 
 
