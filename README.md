@@ -104,6 +104,10 @@ Prompt &nbsp;:&nbsp; "A sleek, red-and-black themed casino stands boldly in the 
 
 
 ## Inspiration
+### Cuphead
+The idea of devil, gambling, game name
+<img src="https://github.com/user-attachments/assets/95dd439b-9ac6-425a-923d-4bcabd3154b9" width="100%" alt="Cuphead"><br><br>
+
 ### Lucifer
 Devil in human disguise inspiration, crafty
 <img src="https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="100%" alt="Lucifer"><br><br>
