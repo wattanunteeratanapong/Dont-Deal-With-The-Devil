@@ -56,10 +56,8 @@ Check out an AI &nbsp;:&nbsp; https://app.runwayml.com <br><br>
 - "A wise person knows when to take a chance. I’m curious if you’ll be that wise."
 - "I can sense your curiosity. But remember, not everything is as it seems here."
 - "The game’s simple, really. But sometimes, simplicity can hide the most... intriguing outcomes."
-- "There’s always a little thrill in the unknown. I wonder if you’ll embrace it."
 - "Ah, the thrill of the gamble. It’s all about what you’re willing to risk... and what you might gain."
 - "It’s always fascinating, watching someone who thinks they know what’s at stake. Let's see how long that confidence lasts."
-- "I’m sure you’ve heard the rumors, but now, you're here. Ready to see if they’re true?"
 - "I can tell you’ve got a spark. Let’s see if you can keep it burning through the game."
 - "Not everything is as it seems, and not every person either."
 ### In Game
