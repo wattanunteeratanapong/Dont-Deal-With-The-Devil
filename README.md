@@ -87,6 +87,15 @@ Check out these beautiful assets &nbsp;:&nbsp; https://glennorous.itch.io/pixel-
 - "Ah, so you've arrived. I’ve been expecting you."
 - "You’ve come to gamble, haven’t you? Be careful... the stakes are higher than you think."
 - "The stakes are high, but what’s life without a little risk?"
+### Win
+- "Allright you win i shall set you free."
+- "But remember it just revive not immortal."
+- "You might visit me again."
+### Lose
+- "You have nothing to be now."
+- "I am gonna take your soul."
+- "Huh?"
+- "You sign the contract the moment you press enter."
 <br><br>
 
 
