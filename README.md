@@ -58,6 +58,18 @@ Check out sound effect &nbsp;:&nbsp; https://youtu.be/RvpJxS3fZH0?si=99DZ0fEpIL0
 
 
 
+## The Dealer Animation (AI Generated)
+Check out an AI &nbsp;:&nbsp; https://app.runwayml.com <br><br>
+<img src="https://github.com/user-attachments/assets/175b13d7-0256-4d9b-b563-80663d678e1e" width="100%" alt="Frame1"><br>
+<img src="https://github.com/user-attachments/assets/0dd7703b-6141-4fb6-9956-25dbd855ac0f" width="100%" alt="Frame2"><br>
+<img src="https://github.com/user-attachments/assets/79052b27-1fea-482a-876a-14a6068bde8c" width="100%" alt="Frame3"><br>
+<img src="https://github.com/user-attachments/assets/f161627f-38e9-4b08-9902-7e50a6534939" width="100%" alt="Frame4"><br>
+<img src="https://github.com/user-attachments/assets/c7bd45ab-b399-4aea-b13f-e46ce71e249f" width="100%" alt="Frame5"><br>
+<img src="https://github.com/user-attachments/assets/8fe799d2-f678-4694-93f0-4eab0735dcf4" width="100%" alt="Frame6"><br><br>
+
+
+
+
 ## Lore (Spoiler Alert!)
 Player are now death now, a
 
