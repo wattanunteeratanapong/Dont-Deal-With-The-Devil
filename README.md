@@ -77,3 +77,14 @@ The voice line in a red thes is when he speak with his devil voice.
 And the reason why no one in this place is because no one dare to bet their soul. You can see in the devil voice line he's very surprise in your boldness.
 
 
+
+## Game Ending
+### Good Ending
+You win the bet against the devil now you finally leave this hell.
+
+### Bad Ending
+You lost your bet which mean the devil will take your sould.
+
+### Easter Egg
+You can press "esc" to leave that casino. and soon learn to live a life in a hell as it should be, human should't against nature rule to revive. 
+
