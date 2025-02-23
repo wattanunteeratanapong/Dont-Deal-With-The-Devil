@@ -35,7 +35,8 @@ Check out sound effect &nbsp;:&nbsp; https://youtu.be/RvpJxS3fZH0?si=99DZ0fEpIL0
 
 
 ## The Dealer Animation (AI Generated)
-Check out an AI &nbsp;:&nbsp; https://app.runwayml.com <br><br>
+Check out an AI &nbsp;:&nbsp; https://app.runwayml.com <br>
+Prompt &nbsp;:&nbsp; "Dealer crossing his arm." <br><br>
 <img src="https://github.com/user-attachments/assets/175b13d7-0256-4d9b-b563-80663d678e1e" width="100%" alt="Frame1"><br>
 <img src="https://github.com/user-attachments/assets/0dd7703b-6141-4fb6-9956-25dbd855ac0f" width="100%" alt="Frame2"><br>
 <img src="https://github.com/user-attachments/assets/79052b27-1fea-482a-876a-14a6068bde8c" width="100%" alt="Frame3"><br>
