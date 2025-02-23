@@ -7,11 +7,6 @@ My first static website game and indy game, if you wanna know why this game is n
 
 
 
-## Objective
-reaching 10,000 point or you will find out. 😈
-
-
-
 ## Lore (Spoiler Alert!)
 You are now death and now you lost into this weird casino where there is no person except the dealer that all you know, you dont remember that you already death.
 The dealer is a devil in human disguise and he tryna trick player in to playing with him by disguise as a human play a calm music trick player to play with him by telling them to press enter to play, the bet is a you soul. If you win you get a revive, if you lost you soul is consume by the devil and die forever.
