@@ -29,10 +29,9 @@ You can press "esc" to leave that casino. and soon learn to live a life in a hel
 
 
 ## Assets
-### Playing Card
-Thanks to "Glennorous" for these beautiful assets <br>
-Check out these beautiful assets &nbsp;:&nbsp; https://glennorous.itch.io/pixel-art-standard-52-card-deck <br><br>
-<img src="https://github.com/user-attachments/assets/47c95377-4f7d-466c-8484-5c4cede9a3a2" width="100%" alt="Asset"><br><br>
+### Hell Scenery
+Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
+Prompt &nbsp;:&nbsp; "A sleek, red-and-black themed casino stands boldly in the center of a bustling city. The city itself is eerily normal, with buildings and streets resembling any typical urban landscape. Above, the sky is painted an unsettling shade of orange, swirling with dark red clouds that give the entire scene a surreal, foreboding atmosphere. The contrast between the city’s everyday appearance and the unnatural, fiery sky creates a captivating yet ominous setting." <br><br>
 
 ### Background Image (AI Generated)
 Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
@@ -61,6 +60,11 @@ Check out sound effect &nbsp;:&nbsp; https://youtu.be/RvpJxS3fZH0?si=99DZ0fEpIL0
 ### Coin Stack
 Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
 Prompt &nbsp;:&nbsp; "Straight 2D top down view of a stack of coins on a table, each coin featuring a Jesus cross symbol engraved on its surface." <br><br>
+
+### Playing Card
+Thanks to "Glennorous" for these beautiful assets <br>
+Check out these beautiful assets &nbsp;:&nbsp; https://glennorous.itch.io/pixel-art-standard-52-card-deck <br><br>
+<img src="https://github.com/user-attachments/assets/47c95377-4f7d-466c-8484-5c4cede9a3a2" width="100%" alt="Asset"><br><br>
 
 
 
