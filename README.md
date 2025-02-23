@@ -40,6 +40,16 @@ Prompt &nbsp;:&nbsp; "Casino dealer standing in front of the table, directly fac
 <img src="https://github.com/user-attachments/assets/35828305-5fc8-443c-9840-9fdc7b96b29f" width="100%" alt="Asset"><br>
 <img src="https://github.com/user-attachments/assets/eb00c6f4-e359-4751-8e0b-4a92471ee111" width="100%" alt="Asset"><br><br>
 
+### The Dealer Animation (AI Generated)
+Check out an AI &nbsp;:&nbsp; https://app.runwayml.com <br>
+Prompt &nbsp;:&nbsp; "Dealer crossing his arm." <br><br>
+<img src="https://github.com/user-attachments/assets/175b13d7-0256-4d9b-b563-80663d678e1e" width="100%" alt="Frame1"><br>
+<img src="https://github.com/user-attachments/assets/0dd7703b-6141-4fb6-9956-25dbd855ac0f" width="100%" alt="Frame2"><br>
+<img src="https://github.com/user-attachments/assets/79052b27-1fea-482a-876a-14a6068bde8c" width="100%" alt="Frame3"><br>
+<img src="https://github.com/user-attachments/assets/f161627f-38e9-4b08-9902-7e50a6534939" width="100%" alt="Frame4"><br>
+<img src="https://github.com/user-attachments/assets/c7bd45ab-b399-4aea-b13f-e46ce71e249f" width="100%" alt="Frame5"><br>
+<img src="https://github.com/user-attachments/assets/8fe799d2-f678-4694-93f0-4eab0735dcf4" width="100%" alt="Frame6"><br><br>
+
 ### Background Music
 Check out background music &nbsp;:&nbsp; https://www.youtube.com/live/PaFHwTjy1yE?si=IQ4IWul6nR2QXVDB <br><br>
 <img src="https://github.com/user-attachments/assets/6a7d7f64-8d8c-47fe-ba54-cd46b0802d2c" width="100%" alt="Asset"><br><br>
@@ -51,19 +61,6 @@ Check out sound effect &nbsp;:&nbsp; https://youtu.be/RvpJxS3fZH0?si=99DZ0fEpIL0
 ### Coin Stack
 Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
 Prompt &nbsp;:&nbsp; "Straight 2D top down view of a stack of coins on a table, each coin featuring a Jesus cross symbol engraved on its surface." <br><br>
-
-
-
-
-## The Dealer Animation (AI Generated)
-Check out an AI &nbsp;:&nbsp; https://app.runwayml.com <br>
-Prompt &nbsp;:&nbsp; "Dealer crossing his arm." <br><br>
-<img src="https://github.com/user-attachments/assets/175b13d7-0256-4d9b-b563-80663d678e1e" width="100%" alt="Frame1"><br>
-<img src="https://github.com/user-attachments/assets/0dd7703b-6141-4fb6-9956-25dbd855ac0f" width="100%" alt="Frame2"><br>
-<img src="https://github.com/user-attachments/assets/79052b27-1fea-482a-876a-14a6068bde8c" width="100%" alt="Frame3"><br>
-<img src="https://github.com/user-attachments/assets/f161627f-38e9-4b08-9902-7e50a6534939" width="100%" alt="Frame4"><br>
-<img src="https://github.com/user-attachments/assets/c7bd45ab-b399-4aea-b13f-e46ce71e249f" width="100%" alt="Frame5"><br>
-<img src="https://github.com/user-attachments/assets/8fe799d2-f678-4694-93f0-4eab0735dcf4" width="100%" alt="Frame6"><br><br>
 
 
 
