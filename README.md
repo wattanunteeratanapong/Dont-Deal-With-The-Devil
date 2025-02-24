@@ -68,7 +68,17 @@ Prompt &nbsp;:&nbsp; "Casino dealer standing in front of the table, directly fac
 <img src="https://github.com/user-attachments/assets/eb00c6f4-e359-4751-8e0b-4a92471ee111" width="100%" alt="Asset"><br>
 <img src="https://github.com/user-attachments/assets/d7a4946b-6d19-4737-b673-798527d66a5c" width="100%" alt="Asset"><br>
 <img src="https://github.com/user-attachments/assets/de1ff807-07b6-4270-856f-63ee92677d2d" width="100%" alt="Asset"><br>
-<img src="https://github.com/user-attachments/assets/205dda34-0f12-413a-bdea-8813010ed09e" width="100%" alt="Asset"><br>
+<img src="https://github.com/user-attachments/assets/ad6f17c8-dd70-42c1-b7de-de9cbd249a88" width="100%" alt="Asset"><br>
+
+### Coin Stack
+Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
+Prompt &nbsp;:&nbsp; "Straight 2D top down view of a stack of coins on a table, each coin featuring a Jesus cross symbol engraved on its surface." <br><br>
+<img src="https://github.com/user-attachments/assets/805870ac-f31a-4443-bec3-9c8e3801c2c9" width="100%" alt="Asset"><br><br>
+
+### Hell Gate
+Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
+Prompt &nbsp;:&nbsp; "A massive hell gate standing ominously at the border between worlds, its dark, fiery aura contrasting sharply with the bright blue sky and lush green grass of the human realm. The gate crackles with infernal energy, hinting at the chaos beyond." <br><br>
+<img src="https://github.com/user-attachments/assets/d0836500-74da-4970-af34-e4378bdcd433" width="100%" alt="Asset"><br><br>
 
 ### The Dealer Animation (AI Generated)
 Check out an AI &nbsp;:&nbsp; https://app.runwayml.com <br>
@@ -88,17 +98,9 @@ Check out background music &nbsp;:&nbsp; https://www.youtube.com/live/PaFHwTjy1y
 Check out sound effect &nbsp;:&nbsp; https://youtu.be/RvpJxS3fZH0?si=99DZ0fEpIL0F0Qw6 <br><br>
 <img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Asset"><br><br>
 
-### Coin Stack
-Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
-Prompt &nbsp;:&nbsp; "Straight 2D top down view of a stack of coins on a table, each coin featuring a Jesus cross symbol engraved on its surface." <br><br>
-
 ### Playing Card
 Check out these beautiful assets &nbsp;:&nbsp; https://www.creativefabrica.com/product/full-deck-of-52-playing-cards/ <br><br>
 <img src="https://tint.creativemarket.com/W8USOOFUuW-FyYqeoPmpd7Uq2wqPJFZLf7OJkjQ-6WY/width:1200/height:800/gravity:nowe/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzE0Mi8xNDI3LzE0Mjc0NzkvZnVsbC1kZWNrLW9mLXBsYXlpbmctY2FyZHMtcHJldmlldy1vLmpwZw?1485075357" width="100%" alt="Asset"><br><br>
-
-### Hell Scenery
-Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
-Prompt &nbsp;:&nbsp; "A sleek, red-and-black themed casino stands boldly in the center of a bustling city. The city itself is eerily normal, with buildings and streets resembling any typical urban landscape. Above, the sky is painted an unsettling shade of orange, swirling with dark red clouds that give the entire scene a surreal, foreboding atmosphere. The contrast between the city’s everyday appearance and the unnatural, fiery sky creates a captivating yet ominous setting." <br><br>
 
 
 
