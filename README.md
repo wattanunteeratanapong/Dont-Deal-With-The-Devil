@@ -1,6 +1,6 @@
 # Don't Deal With The Devil
 My first static website game and indy game, if you wanna know why this game is named "Don't Deal With The Devil" you can try to lose this game. <br><br>
-Check out demo here&nbsp;:&nbsp; https://dontdealwiththedevil.netlify.app/ <br>
+Check out demo here&nbsp;:&nbsp; https://benevolent-cascaron-4e35f8.netlify.app/ <br>
 (Currently working on blackjack system)
 
 ## Preview
