@@ -105,33 +105,33 @@ Check out sound effect &nbsp;:&nbsp; https://youtu.be/RvpJxS3fZH0?si=99DZ0fEpIL0
 
 ### Playing Card
 Check out these beautiful assets &nbsp;:&nbsp; https://www.creativefabrica.com/product/full-deck-of-52-playing-cards/ <br><br>
-<img src="https://tint.creativemarket.com/W8USOOFUuW-FyYqeoPmpd7Uq2wqPJFZLf7OJkjQ-6WY/width:1200/height:800/gravity:nowe/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzE0Mi8xNDI3LzE0Mjc0NzkvZnVsbC1kZWNrLW9mLXBsYXlpbmctY2FyZHMtcHJldmlldy1vLmpwZw?1485075357" width="100%" alt="Asset"><br><br>
+<img src="https://github.com/user-attachments/assets/21557799-b1d6-4374-90d3-c20b3cb6f676" width="100%" alt="Asset"><br><br>
 
 
 
 ## Inspiration
 ### Cuphead
-The idea of devil, gambling, game name
+The idea of devil, gambling, game name <br><br>
 <img src="https://github.com/user-attachments/assets/95dd439b-9ac6-425a-923d-4bcabd3154b9" width="100%" alt="Cuphead"><br><br>
 
 ### Lucifer
-Devil in human disguise inspiration, crafty
+Devil in human disguise inspiration, crafty <br><br>
 <img src="https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="100%" alt="Lucifer"><br><br>
 
 ### Balatro
-Card animation
+Card animation <br><br>
 <img src="https://github.com/user-attachments/assets/b79a0b33-6320-4ca6-b43d-e728e36899d2" width="100%" alt="Balatro"><br><br>
 
 ### Dungeons & Degenerate Gamblers
-Blackjack idea
+Blackjack idea <br><br>
 <img src="https://github.com/user-attachments/assets/ab0a3e64-e1d8-4e2c-aee5-9297a4731681" width="100%" alt="Dungeons & Degenerate Gamblers"><br><br>
 
 ### Undertale
-Story telling, manipulate player game save
+Story telling, manipulate player game save <br><br>
 <img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Undertale"><br><br>
 
 ### DAVE THE DIVER
-Pixel art style
+Pixel art style <br><br>
 <img src="https://github.com/user-attachments/assets/f11325ff-5c57-4c78-8854-c6a7db785bb7" width="100%" alt="DAVE THE DIVER"><br><br>
 
 
