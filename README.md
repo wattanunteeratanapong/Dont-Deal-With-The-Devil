@@ -44,9 +44,9 @@ You close the game tab to leave the casino. and soon learn to live a life in a h
 - "I can tell you’ve got a spark. Let’s see if you can keep it burning through the game."
 - "Not everything is as it seems, and not every person either."
 ### In Game
-- "Ah, so you've arrived. I’ve been expecting you."
-- "You’ve come to gamble, haven’t you? Be careful... the stakes are higher than you think."
-- "The stakes are high, but what’s life without a little risk?"
+- "I have seen many people, but your are a special one."
+- "Not often that people come by this place."
+- "Did you really know what you are betting on, i wonder."
 ### Win
 - "Allright you win i shall set you free."
 - "But remember it just revive not immortal."
