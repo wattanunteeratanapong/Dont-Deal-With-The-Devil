@@ -121,7 +121,7 @@ Blackjack idea
 <img src="https://github.com/user-attachments/assets/ab0a3e64-e1d8-4e2c-aee5-9297a4731681" width="100%" alt="Dungeons & Degenerate Gamblers"><br><br>
 
 ### Undertale
-Story telling
+Story telling, manipulate player game save
 <img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Undertale"><br><br>
 
 ### DAVE THE DIVER
