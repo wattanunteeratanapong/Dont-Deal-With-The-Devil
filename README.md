@@ -93,9 +93,9 @@ Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-ga
 Prompt &nbsp;:&nbsp; "Straight 2D top down view of a stack of coins on a table, each coin featuring a Jesus cross symbol engraved on its surface." <br><br>
 
 ### Playing Card
-Thanks to "Glennorous" for these beautiful assets <br>
-Check out these beautiful assets &nbsp;:&nbsp; https://glennorous.itch.io/pixel-art-standard-52-card-deck <br><br>
-<img src="https://github.com/user-attachments/assets/47c95377-4f7d-466c-8484-5c4cede9a3a2" width="100%" alt="Asset"><br><br>
+Thanks to "" for these beautiful assets <br>
+Check out these beautiful assets &nbsp;:&nbsp; asdas <br><br>
+<img src="" width="100%" alt="Asset"><br><br>
 
 ### Hell Scenery
 Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
