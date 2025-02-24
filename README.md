@@ -90,6 +90,11 @@ Prompt &nbsp;:&nbsp; "Dealer crossing his arm." <br><br>
 <img src="https://github.com/user-attachments/assets/c7bd45ab-b399-4aea-b13f-e46ce71e249f" width="100%" alt="Frame5"><br>
 <img src="https://github.com/user-attachments/assets/8fe799d2-f678-4694-93f0-4eab0735dcf4" width="100%" alt="Frame6"><br><br>
 
+### The Devil Animation (AI Generated)
+Check out an AI &nbsp;:&nbsp; https://app.runwayml.com <br>
+Prompt &nbsp;:&nbsp; "Devil crossing his arm." <br><br>
+<img src="" width="100%" alt="Frame1"><br>
+
 ### Background Music
 Check out background music &nbsp;:&nbsp; https://www.youtube.com/live/PaFHwTjy1yE?si=IQ4IWul6nR2QXVDB <br><br>
 <img src="https://github.com/user-attachments/assets/6a7d7f64-8d8c-47fe-ba54-cd46b0802d2c" width="100%" alt="Asset"><br><br>
