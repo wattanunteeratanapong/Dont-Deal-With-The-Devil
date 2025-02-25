@@ -114,9 +114,13 @@ Check out these beautiful assets &nbsp;:&nbsp; https://www.creativefabrica.com/p
 The idea of devil, gambling, game name <br><br>
 <img src="https://github.com/user-attachments/assets/95dd439b-9ac6-425a-923d-4bcabd3154b9" width="100%" alt="Cuphead"><br><br>
 
-### Lucifer
-Devil in human disguise inspiration, crafty <br><br>
-<img src="https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="100%" alt="Lucifer"><br><br>
+### DAVE THE DIVER
+Pixel art style <br><br>
+<img src="https://github.com/user-attachments/assets/f11325ff-5c57-4c78-8854-c6a7db785bb7" width="100%" alt="DAVE THE DIVER"><br><br>
+
+### Undertale
+Story telling, manipulate player game save <br><br>
+<img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Undertale"><br><br>
 
 ### Balatro
 Card animation <br><br>
@@ -126,13 +130,9 @@ Card animation <br><br>
 Blackjack idea <br><br>
 <img src="https://github.com/user-attachments/assets/ab0a3e64-e1d8-4e2c-aee5-9297a4731681" width="100%" alt="Dungeons & Degenerate Gamblers"><br><br>
 
-### Undertale
-Story telling, manipulate player game save <br><br>
-<img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Undertale"><br><br>
-
-### DAVE THE DIVER
-Pixel art style <br><br>
-<img src="https://github.com/user-attachments/assets/f11325ff-5c57-4c78-8854-c6a7db785bb7" width="100%" alt="DAVE THE DIVER"><br><br>
+### Lucifer
+Devil in human disguise inspiration, crafty <br><br>
+<img src="https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="100%" alt="Lucifer"><br><br>
 
 
 
