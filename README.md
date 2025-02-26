@@ -61,14 +61,19 @@ You close the game tab to leave the casino. and soon learn to live a life in a h
 
 
 ## Assets
-### Background Image (AI Generated)
+### The Dealer
 Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
 Prompt &nbsp;:&nbsp; "Casino dealer standing in front of the table, directly facing the camera, looking at the viewer, with a confident expression." <br><br>
 <img src="https://github.com/user-attachments/assets/35828305-5fc8-443c-9840-9fdc7b96b29f" width="100%" alt="Asset"><br>
-<img src="https://github.com/user-attachments/assets/eb00c6f4-e359-4751-8e0b-4a92471ee111" width="100%" alt="Asset"><br>
+<img src="https://github.com/user-attachments/assets/eb00c6f4-e359-4751-8e0b-4a92471ee111" width="100%" alt="Asset"><br><br>
+
+### The Devil
+Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
+Prompt &nbsp;:&nbsp; "A red devil wearing a black vest, white shirt, and black tuxedo stands confidently in front of a casino table. The devil faces the camera directly, with a confident expression, exuding an air of authority and control." <br><br>
+<img src="https://github.com/user-attachments/assets/5a4ada83-ae79-4b35-bb29-2e938313d396" width="100%" alt="Asset"><br>
 <img src="https://github.com/user-attachments/assets/d7a4946b-6d19-4737-b673-798527d66a5c" width="100%" alt="Asset"><br>
 <img src="https://github.com/user-attachments/assets/de1ff807-07b6-4270-856f-63ee92677d2d" width="100%" alt="Asset"><br>
-<img src="https://github.com/user-attachments/assets/ad6f17c8-dd70-42c1-b7de-de9cbd249a88" width="100%" alt="Asset"><br>
+<img src="https://github.com/user-attachments/assets/ad6f17c8-dd70-42c1-b7de-de9cbd249a88" width="100%" alt="Asset"><br><br>
 
 ### Coin Stack
 Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
