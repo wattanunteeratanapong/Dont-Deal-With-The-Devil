@@ -104,6 +104,11 @@ Prompt &nbsp;:&nbsp; "Devil crossing his arm." <br><br>
 Check out background music &nbsp;:&nbsp; https://www.youtube.com/live/PaFHwTjy1yE?si=IQ4IWul6nR2QXVDB <br><br>
 <img src="https://github.com/user-attachments/assets/6a7d7f64-8d8c-47fe-ba54-cd46b0802d2c" width="100%" alt="Asset"><br><br>
 
+Check out background music &nbsp;:&nbsp; <br> 
+https://youtu.be/X7a3NgcK7kg?si=VjWxgypiCtyYYxwZ <br>
+https://youtu.be/IjmmABnwf7Y?si=ypU5BC_gHhZbNO19 <br><br>
+<img src="https://github.com/user-attachments/assets/e52a8ca7-41a4-4cdf-b3b1-086627f6cd23" width="100%" alt="Asset"><br><br>
+
 ### Sound Effect
 Check out sound effect &nbsp;:&nbsp; https://youtu.be/RvpJxS3fZH0?si=99DZ0fEpIL0F0Qw6 <br><br>
 <img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Asset"><br><br>
