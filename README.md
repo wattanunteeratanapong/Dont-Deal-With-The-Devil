@@ -95,11 +95,6 @@ Prompt &nbsp;:&nbsp; "Dealer crossing his arm." <br><br>
 <img src="https://github.com/user-attachments/assets/c7bd45ab-b399-4aea-b13f-e46ce71e249f" width="100%" alt="Frame5"><br>
 <img src="https://github.com/user-attachments/assets/8fe799d2-f678-4694-93f0-4eab0735dcf4" width="100%" alt="Frame6"><br><br>
 
-### The Devil Animation (AI Generated)
-Check out an AI &nbsp;:&nbsp; https://app.runwayml.com <br>
-Prompt &nbsp;:&nbsp; "Devil crossing his arm." <br><br>
-<img src="" width="100%" alt="Frame1"><br>
-
 ### Background Music
 Check out background music &nbsp;:&nbsp; https://www.youtube.com/live/PaFHwTjy1yE?si=IQ4IWul6nR2QXVDB <br><br>
 <img src="https://github.com/user-attachments/assets/6a7d7f64-8d8c-47fe-ba54-cd46b0802d2c" width="100%" alt="Asset"><br><br>
@@ -121,27 +116,27 @@ Check out these beautiful assets &nbsp;:&nbsp; https://www.creativefabrica.com/p
 
 ## Inspiration
 ### Cuphead
-The idea of devil, gambling, game name <br><br>
+The idea of devil, gambling, game name. <br><br>
 <img src="https://github.com/user-attachments/assets/95dd439b-9ac6-425a-923d-4bcabd3154b9" width="100%" alt="Cuphead"><br><br>
 
 ### DAVE THE DIVER
-Pixel art style <br><br>
+Pixel art style. <br><br>
 <img src="https://github.com/user-attachments/assets/f11325ff-5c57-4c78-8854-c6a7db785bb7" width="100%" alt="DAVE THE DIVER"><br><br>
 
 ### Undertale
-Story telling, manipulate player game save <br><br>
+Story telling. <br><br>
 <img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Undertale"><br><br>
 
 ### Balatro
-Card animation <br><br>
+Card animation. <br><br>
 <img src="https://github.com/user-attachments/assets/b79a0b33-6320-4ca6-b43d-e728e36899d2" width="100%" alt="Balatro"><br><br>
 
 ### Dungeons & Degenerate Gamblers
-Blackjack idea <br><br>
+Blackjack idea. <br><br>
 <img src="https://github.com/user-attachments/assets/ab0a3e64-e1d8-4e2c-aee5-9297a4731681" width="100%" alt="Dungeons & Degenerate Gamblers"><br><br>
 
 ### Lucifer
-Devil in human disguise inspiration, crafty <br><br>
+Devil in human disguise inspiration, crafty. <br><br>
 <img src="https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="100%" alt="Lucifer"><br><br>
 
 
