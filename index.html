@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="//undertalefonts.duodecima.technology/webfonts/stylesheet.css">
+
+    <!-- Fixed: remove ../ so path is relative to repo root -->
+    <link rel="icon" type="image/png" href="./Icon/Pentagram.ico">
+
+    <link rel="stylesheet" href="style.css">
+    <title>Don't Deal With The Devil</title>
+</head>
+
+<body>
+
+    <div id="canvas">
+
+        <!-- Starting Page -->
+        <h1 id="starttext" style="display: none;">Press Space to Start</h1>
+        <div id="voicediv"></div>
+
+        <div id="backgroundmusic">
+            <!-- Fixed: remove ../ so path is relative to repo root -->
+            <img id="playPauseImage" src="./Assets/play.png" alt="play">
+        </div>
+
+        <!-- Game Page -->
+        <div id="upperdiv">
+            <div id="dealerhand"></div>
+        </div>
+
+        <div id="middlediv">
+            <div id="betfield">
+                <div id="pentagram" style="display: none;">
+                    <div id="coinstack" style="display: none;"></div>
+                </div>
+            </div>
+            <div id="battlefield">
+                <div id="dialoguediv"></div>
+                <div id="buttonsdiv">
+                    <button id="bet500" class="betbutton" style="display: none;">500</button>
+                    <button id="bet1000" class="betbutton" style="display: none;">1,000</button>
+                    <button id="bet5000" class="betbutton" style="display: none;">5,000</button>
+                    <button id="bet10000" class="betbutton" style="display: none;">10,000</button>
+                    <button id="allin" class="betbutton" style="display: none;">All In</button>
+                </div>
+            </div>
+            <div id="deckfield">
+                <div id="backcard" style="display: none;"></div>
+            </div>
+        </div>
+
+        <div id="lowerdiv">
+            <div id="playerhand"></div>
+        </div>
+
+        <div id="souldiv" style="display: none;">
+            <div id="cross" style="display: none;"></div>
+            <div id="soulvalue" style="display: none;"></div>
+        </div>
+
+    </div>
+
+    <h1 id="warning">Don't Deal With The Devil</h1>
+    <script src="script.js"></script>
+</body>
+
+</html>
