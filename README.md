@@ -84,7 +84,8 @@ Prompt &nbsp;:&nbsp; "A red devil wearing a black vest, white shirt, and black t
 <img src="https://github.com/user-attachments/assets/5a4ada83-ae79-4b35-bb29-2e938313d396" width="100%" alt="Asset"><br>
 <img src="https://github.com/user-attachments/assets/d7a4946b-6d19-4737-b673-798527d66a5c" width="100%" alt="Asset"><br>
 <img src="https://github.com/user-attachments/assets/de1ff807-07b6-4270-856f-63ee92677d2d" width="100%" alt="Asset"><br>
-<img src="https://github.com/user-attachments/assets/ad6f17c8-dd70-42c1-b7de-de9cbd249a88" width="100%" alt="Asset"><br><br>
+<img src="https://github.com/user-attachments/assets/ad6f17c8-dd70-42c1-b7de-de9cbd249a88" width="100%" alt="Asset"><br>
+<img src="https://github.com/user-attachments/assets/aefdc084-e3db-4793-96f1-45abbd8bd1fe" width="100%" alt="Asset"><br><br>
 
 ### Coin Stack
 Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
