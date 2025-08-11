@@ -1,0 +1,316 @@
+/* Universal */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    font-family: "Press Start 2P", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: black;
+}
+
+
+
+
+
+/* Canvas */
+#canvas {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-image: url('../Assets/entrance.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: background-color 1s ease-in-out;
+    animation: fadeIn 3s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+#backgroundmusic {
+    position: absolute;
+    top: 3%;
+    left: 93%;
+    width: 70px;
+    height: 70px;
+    font-size: 16px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+#playPauseImage {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+
+
+
+
+/* Start Screen */
+#starttext {
+    position: absolute;
+    top: 75%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    color: red;
+    text-shadow: 2px 2px 2px black;
+}
+
+#voicediv {
+    position: absolute;
+    top: 20%;
+    left: 73%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 27px;
+    text-shadow: 2px 2px 4px black;
+}
+
+#voiceline {
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    text-align: center;
+    line-height: 2.2;
+    white-space: pre-wrap;
+}
+
+#warning {
+    display: none;
+    position: absolute;
+    top: 45%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    color: red;
+    text-shadow: 2px 2px 2px black;
+    animation: fadeIn 3s ease-in-out forwards;
+}
+
+
+
+
+
+/* Game Screen */
+#upperdiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 27%;
+}
+
+#dealerhand {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+}
+
+#middlediv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 45%;
+}
+
+#betfield {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 21.5%;
+    height: 100%;
+}
+
+#pentagram {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 400px;
+    /* width: 100%; */
+    height: 400px;
+    /* height: 100%; */
+    background-image: url('../Assets/blackpentagram.png');
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+#coinstack {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 55%;
+    margin-bottom: 7%;
+    background-image: url('../Assets/coinstack.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+#battlefield {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 57%;
+    height: 100%;
+}
+
+#dialoguediv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 60%;
+    padding-top: 10%;
+    font-size: 18px;
+    color: white;
+    
+}
+
+#buttonsdiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    width: 95%;
+    height: 35%;
+    
+}
+
+.betbutton {
+    width: 120px;
+    height: 50px;
+    font-size: 16px;
+    color: black;
+    text-shadow: 2px 2px 2px white;
+    background-color: black;
+    border: 2px solid white;
+    cursor: pointer;
+    font-family: "Press Start 2P", serif;
+    background-color: red;
+}
+
+#allin {
+    background-color: black;
+    color: red;
+    text-shadow: 2px 2px 2px black;
+}
+
+#deckfield {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 21.5%;
+    height: 100%;
+    margin-right: 1%;
+}
+
+#backcard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 220px;
+    background-image: url('../Assets/blueflipbackcard.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+#lowerdiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 27%;
+}
+
+#playerhand {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+}
+
+#souldiv {
+    position: absolute;
+    bottom: 10%;
+    left: 6%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    width: 190px;
+    height: 100px;
+    border: 2px solid white;
+}
+
+#cross {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: 60%;
+    margin-left: 5%;
+    background-image: url('../Assets/cross.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#soulvalue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 100%;
+    font-size: 17px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
