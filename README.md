@@ -1,10 +1,6 @@
 # Don't Deal With The Devil
 This is my first static website game and indie game. If you're curious about why it's called "Don't Deal With The Devil", try losing and you'll find out. 😈 <br><br>
-Check out demo here&nbsp;:&nbsp; https://dontdealwiththedevil.netlify.app/ <br>
-(Currently working on blackjack system)
-
-## Preview
-
+Check out here&nbsp;:&nbsp; https://dontdealwiththedevil.netlify.app/ <br>
 
 
 ## Lore (Spoiler Alert!)
@@ -48,14 +44,27 @@ You close the game tab to leave the casino. and soon learn to live a life in a h
 - "Not often that people come by this place."
 - "Did you really know what you are betting on, i wonder."
 ### Win
-- "Allright you win i shall set you free."
-- "But remember it just revive not immortal."
-- "You might visit me again."
+- "Alright… you’ve won. Your soul shall be free from this hell… for now."
+- "But remember, this is just a revival, i'm not giving you an immortality."
+- "We will meet again… soon."
+- "You run out of the hell gate as fast as you can."
+- "You breathe heavily, and your heart races."
+- "You can feel the earth air around you."
+- "The warmth of the sun hits your skin."
+- "You can still sense the devil through that gate."
+- "Even though you are free, the devil's eyes may still be upon you."
+- "The deal is over... for now."
+- "THANK YOU FOR PLAYING"
 ### Lose
-- "You have nothing to be now."
-- "I am gonna take your soul."
+- "YOUR SOUL IS MINE NOW!!!"
+- "You gambled... and you lost."
+- "This is the fate of the foolish."
+- "Blackjack is a game that favors the house."
 - "Huh?"
 - "You sign the contract the moment you press enter."
+- "Ha ha ha..."
+- "Your soul will serve me for eternity."
+- "The contract is complete. Your soul belongs to the house."
 <br><br>
 
 
