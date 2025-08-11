@@ -1,6 +1,6 @@
 # Don't Deal With The Devil
 This is my first static website game and indie game. If you're curious about why it's called "Don't Deal With The Devil", try losing and you'll find out. 😈 <br><br>
-Check out here&nbsp;:&nbsp; https://dontdealwiththedevil.netlify.app/ <br>
+Check out here&nbsp;:&nbsp; https://dontdealwiththedevil.netlify.app/ <br><br>
 
 
 ## Lore (Spoiler Alert!)
@@ -9,6 +9,7 @@ The dealer is a devil in human disguise and he tryna trick player in to playing 
 The voice line in a white text is when he speak in a polite maner, but he also imply in his voice line that he's a devil, a hint for a player.
 The voice line in a red thes is when he speak with his devil voice.
 And the reason why no one in this place is because no one dare to bet their soul. You can see in the devil voice line he's very surprise in your boldness.
+<br><br>
 
 
 
@@ -21,6 +22,7 @@ You lost your bet which mean the devil will take your soul, and you will die for
 
 ### Easter Egg
 You close the game tab to leave the casino. and soon learn to live a life in a hell as it should be, human should't against nature rule to revive, the game name already warn player. XD
+<br><br>
 
 
 
