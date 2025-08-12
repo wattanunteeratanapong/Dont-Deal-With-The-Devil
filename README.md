@@ -67,6 +67,13 @@ You close the game tab to leave the casino. and soon learn to live a life in a h
 - "Ha ha ha..."
 - "Your soul will serve me for eternity."
 - "The contract is complete. Your soul belongs to the house."
+### Lose More than 1 times
+- "Wait... how is that possible?"
+- "I remember you...",
+- "I already took your soul."
+- "How could this happen...?"
+- "Alright, no more second chances."
+- "You must perish forever."
 <br><br>
 
 
@@ -136,7 +143,7 @@ Pixel art style. <br><br>
 <img src="https://github.com/user-attachments/assets/f11325ff-5c57-4c78-8854-c6a7db785bb7" width="100%" alt="DAVE THE DIVER"><br><br>
 
 ### Undertale
-Story telling. <br><br>
+Story telling, player game save manipulation. <br><br>
 <img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Undertale"><br><br>
 
 ### Balatro
