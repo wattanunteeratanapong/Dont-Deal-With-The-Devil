@@ -1,41 +1,44 @@
 # Don't Deal With The Devil
-This is my first static website game and indie game. If you're curious about why it's called "Don't Deal With The Devil", try losing and you'll find out. 😈 <br><br>
-<img src="https://github.com/user-attachments/assets/ab7329ba-c3ac-4b37-9799-1869f0d56977" width="100%" alt="Asset"><br><br>
+This is my first static website game — and also my first indie game. Wondering why it’s called "Don't Deal With The Devil"? Just lose once and you’ll find out. 😈 <br><br>
+<img src="https://github.com/user-attachments/assets/eb00c6f4-e359-4751-8e0b-4a92471ee111" width="100%" alt="Asset"><br><br>
 Check out here&nbsp;:&nbsp; https://dontdealwiththedevil.netlify.app/ (F11 for better experience)<br><br>
 
 
 
 ## Lore (Spoiler Alert!)
-You are now death and now you lost into this weird casino where there is no person except the dealer that all you know, you dont remember that you already death.
-The dealer is a devil in human disguise and he tryna trick player in to playing with him by disguise as a human play a calm music trick player to play with him by telling them to press enter to play, the bet is a you soul. If you win you get a revive, if you lost you soul is consume by the devil and die forever.
-The voice line in a white text is when he speak in a polite maner, but he also imply in his voice line that he's a devil, a hint for a player.
-The voice line in a red thes is when he speak with his devil voice.
-And the reason why no one in this place is because no one dare to bet their soul. You can see in the devil voice line he's very surprise in your boldness.
+You’re dead now — though you don’t remember it — and somehow you’ve ended up in this weird, empty casino. The only person here is the dealer… or at least, that’s what you think. He’s actually the devil in disguise, trying to trick you into playing his game.
+
+He plays calm music, acts friendly, and tells you to “Press Enter to play.” The bet? Your soul. If you win, you get revived. If you lose, the devil takes your soul, and you’re gone forever.
+
+White text in his dialogue means he’s speaking politely, though he’s dropping subtle hints that he’s actually the devil. Red text means he’s speaking in his true devil voice. The reason the casino is empty is simple — nobody dares to bet their soul. That’s why, when you accept his challenge, you can hear in his devil voice that he’s genuinely surprised by your boldness.
 <br><br>
 
 
 
 ## Game Ending
 ### Good Ending
-You win the bet against the devil, by reaching 10,000 soul point and now you finally free from this hell to a human world.
+You beat the devil by reaching 100,000 soul points, and finally break free from this hell — back to the human world.<br><br>
+<img src="https://github.com/user-attachments/assets/35733e15-e12c-4c9c-a71c-4dec4e0e87e4" width="100%" alt="Asset"><br><br>
 
 ### Bad Ending
-You lost your bet which mean the devil will take your soul, and you will die forever.
+You lose the bet, which means the devil takes your soul… and you’re gone forever.<br><br>
+<img src="https://github.com/user-attachments/assets/aefdc084-e3db-4793-96f1-45abbd8bd1fe" width="100%" alt="Asset"><br><br>
 
 ### Easter Egg
-You close the game tab to leave the casino. and soon learn to live a life in a hell as it should be, human should't against nature rule to revive, the game name already warn player. XD
-<br><br>
+You close the game tab and leave the casino. Eventually, you just accept life in hell as it is — after all, humans shouldn’t mess with the natural rule of death. The game’s name warned you already. XD<br><br>
+<img src="https://github.com/user-attachments/assets/ab7329ba-c3ac-4b37-9799-1869f0d56977" width="100%" alt="Asset"><br><br>
+
 
 
 ## Key Feature
-- Preloading Assets + Caching
-- Remebering if player have played before
-- Music + Sound Effect
-- Dealer Animation
-- Blackjack
-- Undertale-style Dialogue System
-- 2 Ending
-- Special Overlays (heartbeat, devil laugh)
+- Preloading assets + caching for smoother gameplay
+- Remembers if you’ve played before
+- Music & sound effects
+- Dealer animations
+- Blackjack gameplay
+- Undertale-style dialogue system
+- 2 different endings
+- Special overlays (heartbeat, devil laugh)
 <br><br>
 
 
@@ -96,17 +99,13 @@ You close the game tab to leave the casino. and soon learn to live a life in a h
 ### The Dealer
 Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
 Prompt &nbsp;:&nbsp; "Casino dealer standing in front of the table, directly facing the camera, looking at the viewer, with a confident expression." <br><br>
-<img src="https://github.com/user-attachments/assets/35828305-5fc8-443c-9840-9fdc7b96b29f" width="100%" alt="Asset"><br>
-<img src="https://github.com/user-attachments/assets/eb00c6f4-e359-4751-8e0b-4a92471ee111" width="100%" alt="Asset"><br><br>
+<img src="https://github.com/user-attachments/assets/35828305-5fc8-443c-9840-9fdc7b96b29f" width="100%" alt="Asset"><br><br>
 
 ### The Devil
 Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
 Prompt &nbsp;:&nbsp; "A red devil wearing a black vest, white shirt, and black tuxedo stands confidently in front of a casino table. The devil faces the camera directly, with a confident expression, exuding an air of authority and control." <br><br>
 <img src="https://github.com/user-attachments/assets/5a4ada83-ae79-4b35-bb29-2e938313d396" width="100%" alt="Asset"><br>
-<img src="https://github.com/user-attachments/assets/d7a4946b-6d19-4737-b673-798527d66a5c" width="100%" alt="Asset"><br>
-<img src="https://github.com/user-attachments/assets/de1ff807-07b6-4270-856f-63ee92677d2d" width="100%" alt="Asset"><br>
-<img src="https://github.com/user-attachments/assets/ad6f17c8-dd70-42c1-b7de-de9cbd249a88" width="100%" alt="Asset"><br>
-<img src="https://github.com/user-attachments/assets/aefdc084-e3db-4793-96f1-45abbd8bd1fe" width="100%" alt="Asset"><br><br>
+<img src="https://github.com/user-attachments/assets/d7a4946b-6d19-4737-b673-798527d66a5c" width="100%" alt="Asset"><br><br>
 
 ### Coin Stack
 Check out an AI &nbsp;:&nbsp; https://deepai.org/machine-learning-model/retro-game-generator <br>
@@ -121,56 +120,78 @@ Prompt &nbsp;:&nbsp; "A massive hell gate standing ominously at the border betwe
 ### The Dealer Animation (AI Generated)
 Check out an AI &nbsp;:&nbsp; https://app.runwayml.com <br>
 Prompt &nbsp;:&nbsp; "Dealer crossing his arm." <br><br>
-<img src="https://github.com/user-attachments/assets/175b13d7-0256-4d9b-b563-80663d678e1e" width="100%" alt="Frame1"><br>
-<img src="https://github.com/user-attachments/assets/0dd7703b-6141-4fb6-9956-25dbd855ac0f" width="100%" alt="Frame2"><br>
-<img src="https://github.com/user-attachments/assets/79052b27-1fea-482a-876a-14a6068bde8c" width="100%" alt="Frame3"><br>
-<img src="https://github.com/user-attachments/assets/f161627f-38e9-4b08-9902-7e50a6534939" width="100%" alt="Frame4"><br>
-<img src="https://github.com/user-attachments/assets/c7bd45ab-b399-4aea-b13f-e46ce71e249f" width="100%" alt="Frame5"><br>
-<img src="https://github.com/user-attachments/assets/8fe799d2-f678-4694-93f0-4eab0735dcf4" width="100%" alt="Frame6"><br><br>
+<img src="https://github.com/user-attachments/assets/ac63fd90-179e-4ea6-bd46-6397c8e31dca" width="100%" alt="Frame1"><br>
+<img src="https://github.com/user-attachments/assets/fc3692e3-0ca4-4f1d-a710-45cc097e48d0" width="100%" alt="Frame2"><br>
+<img src="https://github.com/user-attachments/assets/c4f88ce0-1977-4687-907c-455cae7f78bc" width="100%" alt="Frame3"><br>
+<img src="https://github.com/user-attachments/assets/4cc98ba5-8835-45d8-ac3b-8af429ba71e1" width="100%" alt="Frame4"><br>
+<img src="https://github.com/user-attachments/assets/0be8e35e-5624-4b09-b3af-38092bcc2848" width="100%" alt="Frame5"><br><br>
 
 ### Background Music
-Check out background music &nbsp;:&nbsp; https://www.youtube.com/live/PaFHwTjy1yE?si=IQ4IWul6nR2QXVDB <br><br>
-<img src="https://github.com/user-attachments/assets/6a7d7f64-8d8c-47fe-ba54-cd46b0802d2c" width="100%" alt="Asset"><br><br>
+Check out background music &nbsp;:&nbsp; <a href="https://www.youtube.com/live/PaFHwTjy1yE?si=IQ4IWul6nR2QXVDB"> CASINO Jazz Music 🎰 Piano Jazz Playlist: For Night Game of Poker, Blackjack, Roulette Wheel & Slots </a> <br><br>
+<a href="https://www.youtube.com/live/PaFHwTjy1yE?si=IQ4IWul6nR2QXVDB">
+  <img src="https://github.com/user-attachments/assets/6a7d7f64-8d8c-47fe-ba54-cd46b0802d2c" width="100%" alt="Asset">
+</a><br><br>
 
 Check out background music &nbsp;:&nbsp; <br> 
-https://youtu.be/X7a3NgcK7kg?si=VjWxgypiCtyYYxwZ <br>
-https://youtu.be/IjmmABnwf7Y?si=ypU5BC_gHhZbNO19 <br><br>
-<img src="https://github.com/user-attachments/assets/e52a8ca7-41a4-4cdf-b3b1-086627f6cd23" width="100%" alt="Asset"><br><br>
+<a href="https://youtu.be/X7a3NgcK7kg?si=VjWxgypiCtyYYxwZ"> The Sandman 2 </a> <br>
+<a href="https://youtu.be/IjmmABnwf7Y?si=ypU5BC_gHhZbNO19"> Blue Room (Kz-Version) </a> <br><br>
+<a href="https://store.steampowered.com/app/460950/Katana_ZERO/">
+  <img src="https://github.com/user-attachments/assets/e52a8ca7-41a4-4cdf-b3b1-086627f6cd23" width="100%" alt="Asset">
+</a><br><br>
 
 ### Sound Effect
-Check out sound effect &nbsp;:&nbsp; https://youtu.be/RvpJxS3fZH0?si=99DZ0fEpIL0F0Qw6 <br><br>
-<img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Asset"><br><br>
+Check out sound effect &nbsp;:&nbsp; <br> 
+<a href="https://youtu.be/dIOUO9LYngA?si=0VJyXLam0JzwmkU0"> Deltarune Voice SFX part 2 </a> <br>
+<a href="https://youtu.be/sMuaM--30p0?si=3sr6Yrd5AKYADClQ"> Asgore Dialogue Sound Effect (Undertale Character Voice Beeps) </a> <br><br>
+<a href="https://store.steampowered.com/app/391540/Undertale/">
+  <img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Asset">
+</a><br><br>
 
 ### Playing Card
-Check out these beautiful assets &nbsp;:&nbsp; https://www.creativefabrica.com/product/full-deck-of-52-playing-cards/ <br><br>
-<img src="https://github.com/user-attachments/assets/21557799-b1d6-4374-90d3-c20b3cb6f676" width="100%" alt="Asset"><br><br>
+Check out these beautiful assets &nbsp;:&nbsp; <a href="https://www.creativefabrica.com/product/full-deck-of-52-playing-cards/"> Full Deck of 52 Playing Cards </a> <br><br>
+<a href="https://www.creativefabrica.com/product/full-deck-of-52-playing-cards/">
+  <img src="https://github.com/user-attachments/assets/21557799-b1d6-4374-90d3-c20b3cb6f676" width="100%" alt="Asset">
+</a><br><br>
+
 
 
 
 ## Inspiration
 ### Cuphead
-The idea of devil, gambling, game name. <br><br>
-<img src="https://github.com/user-attachments/assets/95dd439b-9ac6-425a-923d-4bcabd3154b9" width="100%" alt="Cuphead"><br><br>
+he devil, the gambling vibe, and even the game’s name idea. <br><br>
+<a href="https://store.steampowered.com/app/268910/Cuphead/">
+  <img src="https://github.com/user-attachments/assets/95dd439b-9ac6-425a-923d-4bcabd3154b9" width="100%" alt="Asset">
+</a><br><br>
 
 ### DAVE THE DIVER
-Pixel art style. <br><br>
-<img src="https://github.com/user-attachments/assets/f11325ff-5c57-4c78-8854-c6a7db785bb7" width="100%" alt="DAVE THE DIVER"><br><br>
+Pixel art style influence. <br><br>
+<a href="https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/">
+  <img src="https://github.com/user-attachments/assets/f11325ff-5c57-4c78-8854-c6a7db785bb7" width="100%" alt="Asset">
+</a><br><br>
 
 ### Undertale
-Story telling, player game save manipulation. <br><br>
-<img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Undertale"><br><br>
+Storytelling style and the way it messes with player save data. <br><br>
+<a href="https://store.steampowered.com/app/391540/Undertale/">
+  <img src="https://github.com/user-attachments/assets/41ea59c5-07e6-44cf-91a5-e9b7d3889953" width="100%" alt="Asset">
+</a><br><br>
 
 ### Balatro
-Card animation. <br><br>
-<img src="https://github.com/user-attachments/assets/b79a0b33-6320-4ca6-b43d-e728e36899d2" width="100%" alt="Balatro"><br><br>
+Card animation inspiration. <br><br>
+<a href="https://store.steampowered.com/app/2379780/Balatro/">
+  <img src="https://github.com/user-attachments/assets/b79a0b33-6320-4ca6-b43d-e728e36899d2" width="100%" alt="Asset">
+</a><br><br>
 
 ### Dungeons & Degenerate Gamblers
-Blackjack idea. <br><br>
-<img src="https://github.com/user-attachments/assets/ab0a3e64-e1d8-4e2c-aee5-9297a4731681" width="100%" alt="Dungeons & Degenerate Gamblers"><br><br>
+The core blackjack concept. <br><br>
+<a href="https://store.steampowered.com/app/2400510/Dungeons__Degenerate_Gamblers/">
+  <img src="https://github.com/user-attachments/assets/ab0a3e64-e1d8-4e2c-aee5-9297a4731681" width="100%" alt="Asset">
+</a><br><br>
 
 ### Lucifer
-Devil in human disguise inspiration, crafty. <br><br>
-<img src="https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="100%" alt="Lucifer"><br><br>
+The “devil in disguise” idea — charming, crafty, and dangerous. <br><br>
+<a href="https://en.wikipedia.org/wiki/Lucifer_(TV_series)">
+  <img src="https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="100%" alt="Asset">
+</a><br><br>
 
 
 
