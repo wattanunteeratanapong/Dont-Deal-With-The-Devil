@@ -27,14 +27,14 @@ You close the game tab to leave the casino. and soon learn to live a life in a h
 
 
 ## Key Feature
-- Preloading Assets + caching
-- Remebering player
-- Audio
-- Dealer animation
+- Preloading Assets + Caching
+- Remebering if player have played before
+- Music + Sound Effect
+- Dealer Animation
 - Blackjack
-- Undertale-style dialogue system
+- Undertale-style Dialogue System
 - 2 Ending
-- Special overlays (heartbeat, devil laugh)
+- Special Overlays (heartbeat, devil laugh)
 <br><br>
 
 
