@@ -2,6 +2,16 @@
 This is my first static website game and indie game. If you're curious about why it's called "Don't Deal With The Devil", try losing and you'll find out. 😈 <br><br>
 Check out here&nbsp;:&nbsp; https://dontdealwiththedevil.netlify.app/ (F11 for better experience)<br><br>
 
+## Key Feature
+- Preloading Assets + caching
+- Remebering player
+- Audio
+- Dealer animation
+- Blackjack
+- Undertale-style dialogue system
+- 2 Ending
+- Special overlays (heartbeat, devil laugh)
+<br><br>
 
 ## Lore (Spoiler Alert!)
 You are now death and now you lost into this weird casino where there is no person except the dealer that all you know, you dont remember that you already death.
