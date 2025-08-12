@@ -313,7 +313,7 @@ const cross = document.getElementById('cross');
 const dialoguediv = document.getElementById('dialoguediv');
 const warningText = document.getElementById('warning');
 
-let soulpoints = 100000;
+let s = 40000;
 let displayedSoulPoints = soulpoints;
 let playerBet = 0;
 
@@ -1423,3 +1423,4 @@ function startGame() {
     document.addEventListener('keydown', safeKeyHandler(onStartKey), true);
     focusCanvasSoon();
 }
+
