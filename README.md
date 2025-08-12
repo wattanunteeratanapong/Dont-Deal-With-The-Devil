@@ -8,7 +8,7 @@ Check out here&nbsp;:&nbsp; https://dontdealwiththedevil.netlify.app/ (F11 for b
 ## Lore (Spoiler Alert!)
 You’re dead now — though you don’t remember it — and somehow you’ve ended up in this weird, empty casino. The only person here is the dealer… or at least, that’s what you think. He’s actually the devil in disguise, trying to trick you into playing his game.
 
-He plays calm music, acts friendly, and tells you to “Press Enter to play.” The bet? Your soul. If you win, you get revived. If you lose, the devil takes your soul, and you’re gone forever.
+He plays calm music, acts friendly, and tells you to “Press Space to play.” The bet? Your soul. If you win, you get revived. If you lose, the devil takes your soul, and you’re gone forever.
 
 White text in his dialogue means he’s speaking politely, though he’s dropping subtle hints that he’s actually the devil. Red text means he’s speaking in his true devil voice. The reason the casino is empty is simple — nobody dares to bet their soul. That’s why, when you accept his challenge, you can hear in his devil voice that he’s genuinely surprised by your boldness.
 <br><br>
