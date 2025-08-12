@@ -1,5 +1,6 @@
 # Don't Deal With The Devil
 This is my first static website game and indie game. If you're curious about why it's called "Don't Deal With The Devil", try losing and you'll find out. 😈 <br><br>
+<img src="https://github.com/user-attachments/assets/ab7329ba-c3ac-4b37-9799-1869f0d56977" width="100%" alt="Asset"><br><br>
 Check out here&nbsp;:&nbsp; https://dontdealwiththedevil.netlify.app/ (F11 for better experience)<br><br>
 
 
