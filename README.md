@@ -1,16 +1,11 @@
 # Don't Deal With The Devil
-This is my first static website game — and also my first indie game. Wondering why it’s called "Don't Deal With The Devil"? Just lose once and you’ll find out. 😈 <br><br>
-<img src="https://github.com/user-attachments/assets/eb00c6f4-e359-4751-8e0b-4a92471ee111" width="100%" alt="Asset"><br><br>
-Check out here&nbsp;:&nbsp; https://dontdealwiththedevil.netlify.app/ (F11 for better experience)<br><br>
-
-
-
-## Lore (Spoiler Alert!)
 You’re dead now — though you don’t remember it — and somehow you’ve ended up in this weird, empty casino. The only person here is the dealer… or at least, that’s what you think. He’s actually the devil in disguise, trying to trick you into playing his game.
 
 He plays calm music, acts friendly, and tells you to “Press Space to play.” The bet? Your soul. If you win, you get revived. If you lose, the devil takes your soul, and you’re gone forever.
 
-White text in his dialogue means he’s speaking politely, though he’s dropping subtle hints that he’s actually the devil. Red text means he’s speaking in his true devil voice. The reason the casino is empty is simple — nobody dares to bet their soul. That’s why, when you accept his challenge, you can hear in his devil voice that he’s genuinely surprised by your boldness.
+White text in his dialogue means he’s speaking politely, though he’s dropping subtle hints that he’s actually the devil. Red text means he’s speaking in his true devil voice. The reason the casino is empty is simple — nobody dares to bet their soul. That’s why, when you accept his challenge, you can hear in his devil voice that he’s genuinely surprised by your boldness. <br><br>
+<img src="https://github.com/user-attachments/assets/eb00c6f4-e359-4751-8e0b-4a92471ee111" width="100%" alt="Asset"><br><br>
+Check out here&nbsp;:&nbsp; https://dontdealwiththedevil.netlify.app/ (F11 for better experience)
 <br><br>
 
 
@@ -158,7 +153,7 @@ Check out these beautiful assets &nbsp;:&nbsp; <a href="https://www.creativefabr
 
 ## Inspiration
 ### Cuphead
-he devil, the gambling vibe, and even the game’s name idea. <br><br>
+The devil, the gambling vibe, and even the game’s name idea. <br><br>
 <a href="https://store.steampowered.com/app/268910/Cuphead/">
   <img src="https://github.com/user-attachments/assets/95dd439b-9ac6-425a-923d-4bcabd3154b9" width="100%" alt="Asset">
 </a><br><br>
@@ -185,6 +180,12 @@ Card animation inspiration. <br><br>
 The core blackjack concept. <br><br>
 <a href="https://store.steampowered.com/app/2400510/Dungeons__Degenerate_Gamblers/">
   <img src="https://github.com/user-attachments/assets/ab0a3e64-e1d8-4e2c-aee5-9297a4731681" width="100%" alt="Asset">
+</a><br><br>
+
+### Paper Please
+Character point-of-view perspective with pixel art style. <br><br>
+<a href="https://store.steampowered.com/app/239030/Papers_Please/">
+  <img src="https://github.com/user-attachments/assets/6deaa954-64bb-4b06-a71d-de5aa6e484a0" width="100%" alt="Asset">
 </a><br><br>
 
 ### Lucifer
